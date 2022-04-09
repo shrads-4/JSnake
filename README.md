@@ -1,2 +1,2 @@
-# JSnake
-A Java to Python converter
+# so-basicly
+Easy UMD navigation
